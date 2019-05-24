@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\users\xuetao_yuan\source\repos\souce\test_5_14\test_5_14\test.cpp(126): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“cv::String”
+  test_5_14.vcxproj -> D:\Users\xuetao_yuan\source\repos\souce\test_5_14\x64\Debug\test_5_14.exe
